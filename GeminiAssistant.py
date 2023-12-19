@@ -1,9 +1,6 @@
 import streamlit as st
 import os
 import google.generativeai as genai
-import dotenv
-
-dotenv.load_dotenv()
 
 st.title("Chat - Gemini Bot")
 
